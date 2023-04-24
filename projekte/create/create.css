@@ -1,0 +1,20 @@
+html, body {margin: 0; padding: 0; height: 100%; text-align: center; scroll-behavior: smooth; overflow-y: scroll;}
+section {min-height: 100%;}
+a {text-decoration: none;}
+li {list-style-type: none;}
+h1, h2, h3, a {font-family: 'Poppins', sans-serif; font-size: 500; color: #1C1C1C;}
+h2 {color: #1C1C1C;}
+h3 {font-size: 40px; padding-top: 8%; margin-bottom: 5px;}
+h4, p {font-family: 'Poppins', serif; color: #1C1C1C;}
+hr {width: 30px; height: 3px; background: #1C1C1C; border: 0; margin: 0 auto 40px auto;}
+#logo, li, img, .button {transition: all 300ms; -webkit-transition: all 300ms; -moz-transition: all 300ms; -o-transition: all 300ms;}
+
+.custom-nav{background: #1489f6;}
+.nav-link{color: #272729; font-size: 16px;}
+.nav-link:hover {color: #000000;}
+.custom-nav .active{color: #ffffff;}
+.custom-nav .active:hover{color: #c7afaf;}
+.mb-3, .md-3{width: 20%; margin: auto; text-align: center;}
+.forms {background-position: center center; background-size: cover; margin-top: 100px;}
+.forms form #name, #rangs {border-radius: 5px; font-size: 16px; font-family: 'Poppins', serif;}
+option {font-family: 'Poppins', sans-serif;}
